@@ -1,0 +1,66 @@
+StadiumID,Active,Name,Address,City,State,Zip,Country,Capacity,GeoLat,GeoLong
+1,True,Capital One Arena,601 F St. N.W.,Washington,DC,20004,USA,20290,38.898056,-77.020833
+2,True,Spectrum Center,330 E. Trade St.,Charlotte,NC,28202,USA,19026,35.225000,-80.839167
+3,True,State Farm Arena,1 State Farm Drive,Atlanta,GA,30303,USA,18118,33.757222,-84.396389
+4,True,Kaseya Center,601 Biscayne Blvd.,Miami,FL,33132,USA,19600,25.781389,-80.188056
+5,True,Kia Center,400 W. Church St.,Orlando,FL,32801,USA,18846,28.539167,-81.383611
+6,True,Madison Square Garden,Four Pennsylvania Plaza,New York,NY,10001,USA,19812,40.750556,-73.993611
+7,True,Wells Fargo Center,3601 S. Broad St.,Philadelphia,PA,19148,USA,20328,39.901111,-75.171944
+8,True,Barclays Center,620 Atlantic Ave.,Brooklyn,NY,11217,USA,18200,40.682661,-73.975225
+9,True,TD Garden,100 Legends Way,Boston,MA,2114,USA,17565,42.366303,-71.062228
+10,True,Scotiabank Arena,40 Bay St.,Toronto,ON,M5J 2X2,CAN,19800,43.643333,-79.379167
+11,True,United Center,1901 W. Madison St.,Chicago,IL,60612,USA,20917,41.880556,-87.674167
+12,True,Rocket Mortgage FieldHouse,One Center Court,Cleveland,OH,44115,USA,20562,41.496389,-81.688056
+13,True,Gainbridge Fieldhouse,125 S. Pennsylvania St.,Indianapolis,IN,46204,USA,20000,39.763889,-86.155556
+14,True,Little Caesars Arena,2645 Woodward Ave,Detroit,MI,48201,USA,20491,42.551262,-83.217862
+15,True,Fiserv Forum,1001 N Fourth St.,Milwaukee,WI,53203,USA,19000,43.043611,-87.916944
+16,True,Target Center,600 First Ave. North,Minneapolis,MN,55403,USA,19356,44.979444,-93.276111
+17,True,Delta Center,301 W. South Temple St.,Salt Lake City,UT,84101,USA,19911,40.768333,-111.901111
+18,True,Paycom Center,100 W. Reno Ave.,Oklahoma City,OK,73102,USA,18203,35.463333,-97.515000
+19,True,Moda Center,1 Center Court,Portland,OR,97227,USA,19980,45.531667,-122.666667
+20,True,Ball Arena,1000 Chopper Circle,Denver,CO,80204,USA,19155,39.748611,-105.007500
+21,True,FedExForum,191 Beale St.,Memphis,TN,38103,USA,18119,35.138333,-90.050556
+22,True,Toyota Center,1510 Polk St.,Houston,TX,77002,USA,18043,29.750833,-95.362222
+23,True,Smoothie King Center,1501 Girod St.,New Orleans,LA,70113,USA,17188,29.948889,-90.081944
+24,True,Frost Bank Center,One AT&T Center Parkway,San Antonio,TX,78219,USA,18581,29.426944,-98.437500
+25,True,American Airlines Center,2500 Victory Ave.,Dallas,TX,75219,USA,19200,32.790556,-96.810278
+26,True,Oakland Arena,7000 Coliseum Way,Oakland,CA,94621,USA,18064,37.768100,-122.387500
+27,True,Crypto.com Arena,1111 S. Figueroa St.,Los Angeles,CA,90015,USA,18997,34.043056,-118.267222
+28,True,Footprint Center,201 E. Jefferson St.,Phoenix,AZ,85004,USA,18422,33.445833,-112.071389
+29,True,Golden 1 Center,One Sports Parkway,Sacramento,CA,95834,USA,17317,38.649167,-121.518056
+30,True,Mercedes-Benz Arena,Expo Ave.,Shanghai,PVG,310115,CHN,18000,31.151592,121.798698
+31,True,Key Arena,305 Harrison St.,Seattle,WA,98109,USA,17072,47.621969,-122.329108
+32,True,Dean E. Smith Center,,Chapel Hill,,,USA,,,
+33,True,Valley View Casino Center,,San Diego,,,USA,,,
+34,True,McCamish Pavilion,,Atlanta,,,USA,,,
+35,True,Legacy Arena at BJCC,2100 Richard Arrington Jr. Blvd ,Birmingham,AL,35203,USA,19000,33.526969,-86.809553
+36,True,Honda Center,2695 E. Katella Ave.,Anaheim,CA,92806,USA,18336,33.807778,-117.876667
+37,True,BOK Center,200 South Denver Ave.,Tulsa,OK,74103,USA,19199,36.121663,-95.940621
+38,True,Hilton Coliseum,1700 Center Dr.,Ames,IA,50011,USA,14356,42.025326,-93.633792
+41,True,Shenzhen Universiade Center,3001 Longxiang Ave.,Shenzhen,,518115,CHN,60334,22.675843,113.817939
+42,True,Bell Centre,1909 Avenue des Canadiens-de-Montreal,Montreal,QC,H3B 5E8,CAN,21273,45.496111,-73.569444
+43,True,T-Mobile Arena,3780 S. Las Vegas Blvd.,Las Vegas,NV,89158,USA,17500,36.102778,-115.178333
+44,True,Breslin Center,534 Birch Road,East Lansing,MI,48824,USA,14859,42.737577,-84.517733
+45,True,SAP Center at San Jose,525 W. Santa Clara St.,San Jose,CA,95113,USA,17562,37.332778,-121.901111
+46,True,Rogers Arena,800 Griffiths Way,Vancouver,BC,V6B 6G1,CAN,18890,49.277778,-123.108889
+48,True,Mexico City Arena,Av. de las Granjas 800,Mexico City,,02230,Mexico,22300,19.493280,-99.173187
+49,True,O2 ARENA,Peninsula Square,London,,SE10 0DX,UK,20000,51.501796,0.001880
+51,True,Chase Center,,San Francisco,CA,,USA,,,
+52,True,Lawrence Joel Veterans Memorial Colesium,,Winston-Salem,NC,,USA,,,
+53,True,Saitama Super Arena,,Saitama City,,,Japan,35000,0.000000,0.000000
+54,True,NSCI Dome,,Mumbai,,,India,,,
+55,True,Stan Sheriff Center,,Honolulu,HA,,USA,,,
+56,True,Accor Arena,8 Boulevard de Bercy,Paris,,,France,,48.838653,2.378500
+91,True,ESPN Wide World of Sports Complex,700 S Victory Way,Reunion,FL,34747,USA,,28.337083,-81.556000
+94,True,Arena Ciudad de Mexico,,Mexico City,,02230,Mexico,,,
+95,True,Amalie Arena,401 Channelside Drive,Tampa,FL,33602,USA,20500,27.942778,-82.451944
+96,True,Bank of Oklahoma Center,200 South Denver Avenue West,Tulsa,OK,74103,USA,17839,36.148300,-95.996300
+97,True,Toyota Arena,4000 Ontario Center,Ontario,CA,91764,USA,11089,34.068500,-117.538900
+98,True,Etihad Arena,,Yas Island,,,Abu Dhabi,18000,24.460300,54.604000
+99,False,Climate Pledge Arena,305 Harrison St,Seattle,WA,98109,USA,17459,47.622000,-122.354000
+100,False,Alamodome,100 Montana St,San Antonio,TX,78203,USA,20662,29.416944,-98.478889
+101,False,Moody Center,2001 Robert Dedman Dr,Austin,TX,78712,USA,15000,30.280972,-97.730472
+102,False,Rogers Place,10220 104 Avenue NW,Edmonton,AB,,Canada,19500,53.546944,-113.497778
+103,False,Greensboro Coliseum Fieldhouse,1921 W Gate City Blvd,Greensboro,NC,27403,USA,23500,36.059722,-79.825556
+104,True,Gateway Center,2330 Convention Center Concourse,College Park,GA,30337,USA,3500,33.646800,84.459616
+105,True,Acrisure Arena,75702 Varner Road,Palm Desert,CA,92211,USA,10815,33.779170,-116.338890
